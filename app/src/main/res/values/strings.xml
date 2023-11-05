@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cadastro de Nomes</string>
+
+    <string name="gti">GTI</string>
+    <string name="ads">ADS</string>
+    <string-array name="cursos_array">
+        <item>@string/gti</item>
+        <item>@string/ads</item>
+    </string-array>
+
+    <!-- String adicionada -->
+    <string name="delete">Delete</string>
+
+</resources>
